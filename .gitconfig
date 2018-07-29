@@ -1,0 +1,14 @@
+[user]
+    name = Martin Cruz
+    email = martincruz.cs@gmail.com
+
+[github]
+    user = martincruzot
+
+[core]
+    excludesfile = ~/.gitignore_global
+    editor = nano
+    filemode = false
+    trustctime = false
+    autocrlf = input
+
